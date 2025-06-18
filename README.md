@@ -1,6 +1,7 @@
 
 
 Personal Voice Assistant
+
 This repository contains the code for a simple personal voice assistant built using Python. This assistant can perform basic tasks like telling you the weather and setting reminders, all through voice commands.
 
 Features
