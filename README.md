@@ -22,7 +22,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/YourUsername/personal-voice-assistant.git
+git clone https://github.com/vinuthnakumar/personal-voice-assistant.git
 cd personal-voice-assistant
 Install the required Python packages:
 
